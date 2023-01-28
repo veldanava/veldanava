@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/bR5Ct.gif" align="center" style="width: 100%" />
+  <div class="tenor-gif-embed" data-postid="25245303" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/guruguru-hololive-vestia-zeta-zeta-gif-25245303">Guruguru Hololive GIF</a>from <a href="https://tenor.com/search/guruguru-gifs">Guruguru GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div> 
 
 # 💫 About Me:
