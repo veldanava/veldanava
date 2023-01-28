@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/0c/0a/de/0c0adecb0840dc6968e14cae2ca3d5bb.jpg" alt="test" </img>
+  <img src="https://i.pinimg.com/564x/74/ba/69/74ba6923f4cb26098b4b465cdb0b1d91.jpg" alt="test" </img>
 </div> 
 
 # 💫 About Me:
@@ -13,6 +13,7 @@ and junior in the world of cybersecurity <br>
 I'm currently learning data forensics and cryptography
 <br>
 よろしくお願いします ! ! !
+<br>
 <br>
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
