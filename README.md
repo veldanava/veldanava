@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
-<br>
-## 💫 About Me:
+
+# 💫 About Me:
 <br>
 Hello <br>
 I'm Veldanava aka KianaKaslana <br>
