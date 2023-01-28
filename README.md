@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/74/ba/69/74ba6923f4cb26098b4b465cdb0b1d91.jpg" alt="test" width="100px"></img>
+  <img src="https://i.pinimg.com/564x/74/ba/69/74ba6923f4cb26098b4b465cdb0b1d91.jpg" alt="test" width="100%"></img>
 </div> 
 
 # 💫 About Me:
