@@ -1,5 +1,16 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
+<br>
 # 💫 About Me:
-Im currently learning data forensics & cryptograph
+Hello <br>
+I'm Veldanava aka KianaKaslana <br>
+I'm a backend developer (for now lol) <br>
+and junior in the world of cybersecurity <br>
+<br>
+I'm currently studying data forensics and cryptography
+<br>
+よろしくお願いします
 
 
 ## 🌐 Socials:
