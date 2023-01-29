@@ -35,7 +35,7 @@ for currently i learning data forensics and cryptography ^u^
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=veldanava&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote For My Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
