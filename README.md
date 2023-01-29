@@ -3,6 +3,36 @@
 </div> 
 
 # 💫 About Me:
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://hololive.hololivepro.com/wp-content/uploads/2022/03/Vestia-Zeta_pr-img_resize-840x1440.png" width="130px"/> 
+
+```csharp
+My Profile v2.0.2: 破壊「はかい」
+-------------------------------
+Username: John.
+WhoamI: physicist and Computer Engineer. Also musician (more or less).
+OS: Ubuntu 22.04.1 LTS.
+Shell: Bash.
+Telegram: @yoshimakayaba.
+FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
+Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
+Pronouns: He-Him.
+Location: Planet Kepler-452b.
+Languages: C,C++, Python.
+Hobbyes: Python, C, C++.
+Learning: Swift, Kotlin.
+FavouriteSong: Sweeter than wine by NCW.
+FavouriteEquation: Fourier transform. 
+Hobbies: Gaming,Watching anime,Coding 
+while I am listening music.
+My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
+
+```
+
 Hello.. <br>
 I'm Veldanava aka KianaKaslana <br>
 I'm a backend developer (for now lol), Linux Art Enthusiast and junior in the CyberSecurity world UoU
