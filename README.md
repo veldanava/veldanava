@@ -16,7 +16,9 @@ I'm currently learning data forensics and cryptography ^u^
 <br>
 <br>
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
-
+<br>
+<br>
+[![An image of @veldanava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/veldanava)](https://holopin.io/@veldanava)
 
 ## 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ohmyaleister) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/miraearchlinux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexander.s.kennedy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirae-znain) 
