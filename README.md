@@ -29,8 +29,9 @@ Favourite Song: Feel My Rhythm by Red Velvet
 ```
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 <br>
-
+<div class="center">
 <a href=“https://www.digitalocean.com”><img src=“https://www.digitalocean.com/assets/v2/digitalocean-small-badge-black.png” alt=“cloud server, cloud hosting, VPS server”></a>
+</div>
 <br>
 
 
