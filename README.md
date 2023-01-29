@@ -11,7 +11,7 @@
 <img align="left" src="https://hololive.hololivepro.com/wp-content/uploads/2022/03/Vestia-Zeta_pr-img_resize-840x1440.png" width="130px"/> 
 
 ```csharp
-My Profile v2.0.2: 破壊「はかい」
+よろしくお願いします.... ! ! !
 -------------------------------
 Username: Veldanava aka Kiana Kaslana
 WhoamI: backend developer, cryptograph, and junior on the CyberSecurity world
@@ -27,14 +27,6 @@ Learning: Data Forensics and Cryptograph
 FavouriteSong: Feel My Rhythm by Red Velvet
 
 ```
-
-Hello.. <br>
-I'm Veldanava aka KianaKaslana <br>
-I'm a backend developer (for now lol), Linux Art Enthusiast and junior in the CyberSecurity world UoU
-<br> <br>
-for currently i learning data forensics and cryptography ^u^
-<br> <br>
-よろしくお願いします.... ! ! !
 <br>
 <br>
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
