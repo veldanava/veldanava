@@ -27,13 +27,11 @@ Learning: Data Forensics and Cryptograph
 Favourite Song: Feel My Rhythm by Red Velvet
 
 ```
+
 <div align="center">
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 </div>
-<br>
-<div align="center">
-<img src=“https://www.digitalocean.com/assets/v2/digitalocean-small-badge-black.png” alt=“cloud server, cloud hosting, VPS server”></a>
-</div>
+
 <br>
 
 
