@@ -8,9 +8,9 @@
 Hello.. <br>
 I'm Veldanava aka KianaKaslana <br>
 I'm a backend developer (for now lol), Linux Art Enthusiast and junior in the CyberSecurity world UoU
-<br>
-for currently im learning data forensics and cryptography ^u^
-<br>
+<br> <br>
+for currently i learning data forensics and cryptography ^u^
+<br> <br>
 よろしくお願いします.... ! ! !
 <br>
 <br>
