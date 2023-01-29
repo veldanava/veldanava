@@ -3,8 +3,6 @@
 </div> 
 
 # 💫 About Me:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tqcpw4r800j5a4pekqtlfj5so&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<br>
 Hello.. <br>
 I'm Veldanava aka KianaKaslana <br>
 I'm a backend developer (for now lol), Linux Art Enthusiast and junior in the CyberSecurity world UoU
@@ -17,8 +15,11 @@ for currently i learning data forensics and cryptography ^u^
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 <br>
 <br>
+# Now Listening:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tqcpw4r800j5a4pekqtlfj5so&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<br>
 
-# HoloPin Badge
+# My HoloPin Badge:
 [![An image of @veldanava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/veldanava)](https://holopin.io/@veldanava)
 
 # 🌐 Connect With Me:
