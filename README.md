@@ -21,16 +21,16 @@ Favourite Anime: 五等分の花嫁 The Quintessential Quintuplets / Gotoubun No
 Waifu: ゼータ Vestia Zeta ❤️
 Pronouns: He-Him.
 Location: Japan
-Languages: JavaScript, Python, PHP, Java
+Favourite Languages Code: JavaScript, Python, PHP, Java
 Hobbies: participated in several CTF challenges and analyze website vulnerabilities
 Learning: Data Forensics and Cryptograph
-FavouriteSong: Feel My Rhythm by Red Velvet
+Favourite Song: Feel My Rhythm by Red Velvet
 
 ```
 <br>
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 <br>
-<br>
+
 # Now Listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tqcpw4r800j5a4pekqtlfj5so&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
