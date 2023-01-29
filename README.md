@@ -28,7 +28,6 @@ FavouriteSong: Feel My Rhythm by Red Velvet
 
 ```
 <br>
-<br>
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 <br>
 <br>
