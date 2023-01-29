@@ -13,7 +13,7 @@
 ```csharp
 よろしくお願いします.... ! ! !
 -------------------------------
-Username: Veldanava aka Kiana Kaslana
+Hostname: Veldanava aka Kiana Kaslana
 WhoamI: backend developer, cryptograph, and junior on the CyberSecurity world
 OS: Debian 11 Bullseye
 Shell: zsh
