@@ -33,6 +33,9 @@ Favourite Song: Feel My Rhythm by Red Velvet
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tqcpw4r800j5a4pekqtlfj5so&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
+### IBM Badge:
+<img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="ibm-badge">
+
 ### 🛡 My HoloPin Badge:
 [![An image of @veldanava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/veldanava)](https://holopin.io/@veldanava)
 
