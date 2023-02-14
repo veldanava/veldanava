@@ -15,7 +15,7 @@
 -------------------------------
 Hostname: Veldanava aka Kiana Kaslana
 WhoamI: backend developer, cryptograph, and junior on the CyberSecurity world
-OS: ArchCraft
+OS: ArchCraft & Windows 10
 Shell: zsh
 Favourite Anime: 五等分の花嫁 The Quintessential Quintuplets / Gotoubun No Hanayome
 Waifu: ゼータ Vestia Zeta ❤️
