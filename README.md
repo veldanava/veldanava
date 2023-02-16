@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/74/ba/69/74ba6923f4cb26098b4b465cdb0b1d91.jpg" alt="test" width="100%"></img>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_lS88YC8r3Y.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
 </div> 
 
 ### 💫 About Me:
