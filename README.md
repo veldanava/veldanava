@@ -6,10 +6,6 @@
 
 ### 💫 About Me:
 
-```zsh
-> neofetch
-```
-
 <img align="left" src="https://hololive.hololivepro.com/wp-content/uploads/2022/03/Vestia-Zeta_pr-img_resize-840x1440.png" width="130px"/> 
 
 ```javascript
