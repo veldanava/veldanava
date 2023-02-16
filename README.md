@@ -1,5 +1,7 @@
 <div align="center">
- <img src="https://media.tenor.com/zzKH8jjb5WoAAAAC/guruguru-hololive.gif" alt="zeta">
+
+ ![20230216_153352](https://user-images.githubusercontent.com/86060881/219311972-20076839-6742-49c4-adf3-4ab202bb184e.png)
+ 
 </div>
 
 ### 💫 About Me:
