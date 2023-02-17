@@ -50,4 +50,4 @@ Favourite Song: Feel My Rhythm by Red Velvet
 ### ✍️ Random Dev Quote For My Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![counter](https://count.getloli.com/get/@veldanava-github-readme?theme=rule34)
+![counter](https://count.getloli.com/get/@veldanava-github-readme?theme=moebooru)
