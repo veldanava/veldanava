@@ -21,7 +21,7 @@ Pronouns: He-Him.
 Location: Japan
 Favourite Languages Code: JavaScript, Python, PHP, Java
 Hobbies: participated in several CTF challenges and analyze website vulnerabilities
-Learning: Data Forensics and Cryptograph
+Learning: Data Forensics, Cryptograph and BlockChain env
 Favourite Song: Feel My Rhythm by Red Velvet
 
 ```
