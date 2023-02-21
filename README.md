@@ -13,16 +13,16 @@
 -------------------------------
 Hostname: veldanava aka kiana kaslana
 WhoamI: backend developer, cryptograph, core blockchain developer and junior on the cybercecurity world
-OS: archCraft, kali linux & Windows 10
+OS: archCraft, kali linux & windows 10
 Shell: zsh
-Favourite Anime: 五等分の花嫁 The Quintessential Quintuplets / Gotoubun No Hanayome
+Favourite Anime: 五等分の花嫁 the quintessential quintuplets / gotoubun no hanayome
 Waifu: ゼータ vestia zeta ❤️
 Pronouns: he-him.
 Location: japan
 Favourite Languages Code: javaScript & python
 Hobbies: participated in several ctf challenges
-Learning: data Forensics, cryptograph and blockChain env
-Favourite Song: Feel My Rhythm by Red Velvet
+Learning: data forensics, cryptograph and blockChain env
+Favourite Song: feel my rhythm by red velvet
 
 ```
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
