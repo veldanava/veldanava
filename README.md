@@ -11,17 +11,17 @@
 ```python
 よろしくお願いします.... ! ! !
 -------------------------------
-Hostname: Veldanava aka Kiana Kaslana
-WhoamI: backend developer, cryptograph, and junior on the CyberSecurity world
-OS: ArchCraft, Kali Linux & Windows 10
+Hostname: veldanava aka kiana kaslana
+WhoamI: backend developer, cryptograph, core blockchain developer and junior on the cybercecurity world
+OS: archCraft, kali linux & Windows 10
 Shell: zsh
 Favourite Anime: 五等分の花嫁 The Quintessential Quintuplets / Gotoubun No Hanayome
-Waifu: ゼータ Vestia Zeta ❤️
-Pronouns: He-Him.
-Location: Japan
-Favourite Languages Code: JavaScript, Python, PHP, Java
-Hobbies: participated in several CTF challenges and analyze website vulnerabilities
-Learning: Data Forensics, Cryptograph and BlockChain env
+Waifu: ゼータ vestia zeta ❤️
+Pronouns: he-him.
+Location: japan
+Favourite Languages Code: javaScript & python
+Hobbies: participated in several ctf challenges
+Learning: data Forensics, cryptograph and blockChain env
 Favourite Song: Feel My Rhythm by Red Velvet
 
 ```
