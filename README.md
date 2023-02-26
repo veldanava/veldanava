@@ -16,23 +16,6 @@ I am also interested with Blockchain Environment, Data Forensics, and new things
 
 <picture> <img align="right" src="https://i.pinimg.com/564x/19/b9/8d/19b98d3fc49350edcc30fb8eb25e744d.jpg" width = 250px></picture>
 
-```python
-よろしくお願いします.... ! ! !
--------------------------------
-Hostname: veldanava aka kiana kaslana
-WhoamI: backend developer, cryptograph, core blockchain developer and junior on the cybercecurity world
-OS: archCraft, kali linux & windows 10
-Shell: zsh
-Favourite Anime: 五等分の花嫁 the quintessential quintuplets / gotoubun no hanayome
-Waifu: ゼータ vestia zeta ❤️
-Pronouns: he-him.
-Location: japan
-Favourite Languages Code: javaScript & python
-Hobbies: participated in several ctf challenges
-Learning: data forensics, cryptograph and blockChain env
-Favourite Song: feel my rhythm by red velvet
-
-```
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
 ### 🎧 Now Listening:
