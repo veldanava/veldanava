@@ -13,7 +13,8 @@
  - Im Kiana Kaslana [ veldanava ]
  - An junior back-end developer, linux enthusiast, core blockchain developer, and pentester.
  - I love anime, novels, manga and many more.
- - I am also interested with Blockchain Environment, Data Forensics, and new things.
+ - I also interested with Blockchain Environment, Data Forensics, and new things.
+ - For currently i learning blockchain env and data forensics.
  
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
