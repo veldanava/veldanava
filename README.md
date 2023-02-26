@@ -6,8 +6,6 @@
 
 ### 💫 About Me:
 
-<img align="left" src="https://hololive.hololivepro.com/wp-content/uploads/2022/03/Vestia-Zeta_pr-img_resize-840x1440.png" width="130px"/> 
-
 <p> 
 Im Kiana Kaslana [ veldanava ], an junior back-end developer, linux enthusiast, core blockchain developer, and pentester. 
 I love anime, novels, manga and many more.
@@ -15,6 +13,8 @@ I am also interested with Blockchain Environment, Data Forensics, and new things
 </p>
 
 <picture> <img align="right" src="https://i.pinimg.com/564x/19/b9/8d/19b98d3fc49350edcc30fb8eb25e744d.jpg" width = 250px></picture>
+
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
