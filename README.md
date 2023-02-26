@@ -7,9 +7,9 @@
 ### 💫 About Me:
 
 <p>
-- Im Kiana Kaslana [ veldanava ]
-- An junior back-end developer, linux enthusiast, core blockchain developer, and pentester.
-- I love anime, novels, manga and many more. 
+- Im Kiana Kaslana [ veldanava ] <br>
+- An junior back-end developer, linux enthusiast, core blockchain developer, and pentester. <br>
+- I love anime, novels, manga and many more. <br>
 - I am also interested with Blockchain Environment, Data Forensics, and new things.
 </p>
  
