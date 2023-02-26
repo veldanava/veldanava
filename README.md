@@ -6,8 +6,6 @@
 
 ### 💫 About Me:
 
-<br>
-
 - Im Kiana Kaslana [ veldanava ]
 - An junior back-end developer, linux enthusiast, core blockchain developer, and pentester.
 - I love anime, novels, manga and many more. 
@@ -16,7 +14,7 @@
 
 <br><br>
 
-<img src="https://i.pinimg.com/564x/19/b9/8d/19b98d3fc49350edcc30fb8eb25e744d.jpg" width="150px"><br><br>
+<img src="https://i.pinimg.com/564x/19/b9/8d/19b98d3fc49350edcc30fb8eb25e744d.jpg" align="right" width="150px"><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
