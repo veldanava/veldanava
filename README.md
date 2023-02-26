@@ -8,7 +8,7 @@
 
 ### 💫 About Me:
 
-<img align="right" height="150px" width="150px" alt="kiana" src="https://i.pinimg.com/564x/19/b9/8d/19b98d3fc49350edcc30fb8eb25e744d.jpg" />
+<img align="right" height="150px" width="150px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
 
  - Im Kiana Kaslana [ veldanava ]
  - An junior back-end developer, linux enthusiast, core blockchain developer, and pentester.
