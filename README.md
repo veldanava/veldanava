@@ -11,10 +11,11 @@
 <img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
 
  - Im Kiana [ veldanava ]
- - An junior back-end developer, linux enthusiast, core blockchain developer, and pentester.
+ - An junior back-end developer, linux enthusiast, and core blockchain developer
  - I love anime, novels, manga and many more.
  - I also interested with Blockchain Environment, Data Forensics, and new things.
  - For currently i learning blockchain env and data forensics.
+ - Btw my waifu is Kiana Kaslana & Vestia Zeta :p
  
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
