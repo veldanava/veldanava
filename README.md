@@ -10,7 +10,7 @@
 
 <img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
 
- - Im Kiana Kaslana [ veldanava ]
+ - Im Kiana [ veldanava ]
  - An junior back-end developer, linux enthusiast, core blockchain developer, and pentester.
  - I love anime, novels, manga and many more.
  - I also interested with Blockchain Environment, Data Forensics, and new things.
