@@ -1,4 +1,4 @@
-# 💫 About Me:
+### About Me
 
 <img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
 
