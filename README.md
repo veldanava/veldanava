@@ -21,12 +21,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
-
 ### 🎧 Now Listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tqcpw4r800j5a4pekqtlfj5so&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>My badge
 
 ### 💠 My IBM Badge:
 <a href="https://www.credly.com/badges/dc77075f-1a17-44b0-b6ad-88ff0a541a55/public_url"><img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="my ibm badge"></a>
@@ -37,6 +37,8 @@
 [![An image of @veldanava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/veldanava)](https://holopin.io/@veldanava)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</details>
 
 ### 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ohmyaleister) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/miraearchlinux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexander.s.kennedy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirae-znain) 
