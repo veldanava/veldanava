@@ -60,4 +60,5 @@
  
  <div align="center">
   <h1>よろしくお願いします!!!</h1>
+   <a href="https://www.znaindev.my.id">my website</a>
  </div>
