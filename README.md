@@ -26,17 +26,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>My badge
+<details>
+ <summary><b>My Badge</b></summary>
 
 ### 💠 My IBM Badge:
 <a href="https://www.credly.com/badges/dc77075f-1a17-44b0-b6ad-88ff0a541a55/public_url"><img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="my ibm badge"></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 🛡 My HoloPin Badge:
 [![An image of @veldanava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/veldanava)](https://holopin.io/@veldanava)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </details>
 
