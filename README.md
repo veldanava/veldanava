@@ -59,6 +59,7 @@
  </details>
  
  <div align="center">
-  <h1>よろしくお願いします!!!</h1>
-   <a href="https://www.znaindev.my.id">-- K I A N A  /  V E L D A N A V A --</a>
+  <h1>よろしくお願いします!!!</h1> <br>
+   <img src="https://tenor.com/F6dW.gif"></img>
+    <a href="https://www.znaindev.my.id">-- K I A N A  /  V E L D A N A V A --</a>
  </div>
