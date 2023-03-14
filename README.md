@@ -21,6 +21,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<details>
+
 ### 🎧 Now Listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tqcpw4r800j5a4pekqtlfj5so&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -58,4 +60,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+ </details>
+ 
 ![counter](https://count.getloli.com/get/@veldanava-github-readme?theme=moebooru)
