@@ -60,5 +60,5 @@
  
  <div align="center">
   <h1>よろしくお願いします!!!</h1>
-   <a href="https://www.znaindev.my.id">my website</a>
+   <a href="https://www.znaindev.my.id">K I A N A / V E L D A N A V A</a>
  </div>
