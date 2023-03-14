@@ -64,4 +64,6 @@
 
  </details>
  
-![counter](https://count.getloli.com/get/@veldanava-github-readme?theme=moebooru)
+ <div align="center">
+  <h1>よろしくお願いします!!!</h1>
+ </div>
