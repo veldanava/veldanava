@@ -8,6 +8,7 @@
  - I also interested with Blockchain Environment, Data Forensics, and new things.
  - For currently i learning blockchain env and data forensics.
  - Btw my waifu is Kiana Kaslana & Vestia Zeta :p
+ - よろしくお願いします!!!
  
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
@@ -59,7 +60,7 @@
  </details>
  
  <div align="center">
-  <h1>よろしくお願いします!!!</h1> 
+  <h1>ありがとうございます!!!</h1> 
    <img src="https://media.tenor.com/pMZ59iJGzG4AAAAC/lovelab-anime.gif" alt="arigatou"/>
    <br>
     <a href="https://www.znaindev.my.id">-- K I A N A  /  V E L D A N A V A --</a>
