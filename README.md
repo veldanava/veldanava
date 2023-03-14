@@ -61,7 +61,7 @@
  <div align="center">
   <h1>よろしくお願いします!!!</h1> 
    <br>
-   <img src="https://media.tenor.com/pMZ59iJGzG4AAAAC/lovelab-anime.gif" alt="arigatou"/>
+   <img src="https://media.tenor.com/pMZ59iJGzG4AAAAC/lovelab-anime.gif" alt="arigatou" autoplay="true"/>
    <br>
     <a href="https://www.znaindev.my.id">-- K I A N A  /  V E L D A N A V A --</a>
  </div>
