@@ -11,7 +11,7 @@
  
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### App Drawer
 
@@ -60,8 +60,7 @@
  
  <div align="center">
   <h1>よろしくお願いします!!!</h1> 
-   <br>
-   <img src="https://media.tenor.com/pMZ59iJGzG4AAAAC/lovelab-anime.gif" alt="arigatou" autoplay="true"/>
+   <img src="https://media.tenor.com/pMZ59iJGzG4AAAAC/lovelab-anime.gif" alt="arigatou"/>
    <br>
     <a href="https://www.znaindev.my.id">-- K I A N A  /  V E L D A N A V A --</a>
  </div>
