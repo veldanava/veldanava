@@ -1,12 +1,6 @@
-<div align="center">
-
-![20230216_154607](https://user-images.githubusercontent.com/86060881/219314519-fc6ae8ee-fbfc-42be-90f3-ed0067181d83.png)
- 
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💫 About Me:
+## 💫 About Me:
 
 <img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
 
@@ -20,6 +14,8 @@
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### App Drawer
 
 <details>
  <summary><b>Realtime Spotify</b></summary>
