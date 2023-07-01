@@ -5,7 +5,7 @@
  - Im Kiana [ veldanava ]
  - An junior back-end developer, begineer ui/ux designer, linux, blockchain and cybersecurity enthusiast
  - I love anime, novels, manga and many more.
- - For currently i learning front-end role
+ - For currently i learning ui/ux 
  - Btw my waifu is Kiana Kaslana & Vestia Zeta :p
  - よろしくお願いします!!!
  
