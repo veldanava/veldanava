@@ -3,7 +3,7 @@
 <img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
 
  - Im Kiana [ veldanava ]
- - An junior fullstack developer, begineer ui/ux designer, linux, blockchain and cybersecurity enthusiast
+ - Junior fullstack developer, begineer ui/ux designer, and cybersecurity practitioner
  - よろしくお願いします!!!
  
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
