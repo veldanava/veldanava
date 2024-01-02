@@ -1,6 +1,6 @@
 ### About Me
 
-<img align="right" height="155px" width="155px" alt="kiana" style={img{border-radius: 50%}} src="https://i.pinimg.com/564x/dc/45/76/dc4576813a545e75589a306f765a9e8c.jpg">
+<img align="right" height="155px" width="155px" alt="kiana" style={border-radius: 50%} src="https://i.pinimg.com/564x/dc/45/76/dc4576813a545e75589a306f765a9e8c.jpg">
 
  - hellllllooooooooo
  - im founder of KitaJualin
