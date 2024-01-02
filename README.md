@@ -1,6 +1,6 @@
 ### About Me
 
-<img align="right" height="155px" width="155px" alt="kiana" src="[![20231109_115224](https://github.com/veldanava/veldanava/assets/86060881/a7d32f26-426a-4e19-9cb9-d8fb465027f3)](https://i.pinimg.com/564x/dc/45/76/dc4576813a545e75589a306f765a9e8c.jpg)"/>
+<img align="right" height="155px" width="155px" alt="kiana" src="[![20231109_115224](https://github.com/veldanava/veldanava/assets/86060881/a7d32f26-426a-4e19-9cb9-d8fb465027f3)](https://i.pinimg.com/564x/dc/45/76/dc4576813a545e75589a306f765a9e8c.jpg)">
 
  - hellllllooooooooo
  - im founder of KitaJualin
