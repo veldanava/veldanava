@@ -1,12 +1,10 @@
 ### About Me
 
-<img align="right" height="155px" width="155px" alt="kiana" src="![20231109_115224](https://github.com/veldanava/veldanava/assets/86060881/a7d32f26-426a-4e19-9cb9-d8fb465027f3)"
- />
+<img align="right" height="155px" width="155px" alt="kiana" src="[![20231109_115224](https://github.com/veldanava/veldanava/assets/86060881/a7d32f26-426a-4e19-9cb9-d8fb465027f3)](https://i.pinimg.com/564x/dc/45/76/dc4576813a545e75589a306f765a9e8c.jpg)"/>
 
- - hellllllooooo, im kiana
+ - hellllllooooooooo
  - im founder of KitaJualin
  - fullstack developer, ui/ux designer, and cybersecurity practitioner
- - よろしくお願いします!!!
  
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
@@ -35,7 +33,7 @@
  <summary><b>Look At Here</b></summary>
  
 ### 🌐 Connect With Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ohmyaleister) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/miraearchlinux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexander.s.kennedy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirae-znain) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ohmyaleister) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/miraearchlinux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexanderdimmitri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirae-znain) 
 
 </details>
 
