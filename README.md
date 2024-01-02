@@ -1,6 +1,7 @@
 ### About Me
 
-<img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
+<img align="right" height="155px" width="155px" alt="kiana" src="![20231109_115224](https://github.com/veldanava/veldanava/assets/86060881/a7d32f26-426a-4e19-9cb9-d8fb465027f3)"
+ />
 
  - hellllllooooo, im kiana
  - im founder of KitaJualin
