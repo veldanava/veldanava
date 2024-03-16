@@ -1,8 +1,6 @@
 ### About Me
 
- - hellllllooooooooo
- - im founder of KitaJualin
- - fullstack developer, ui/ux designer, and cybersecurity practitioner
+ - fullstack developer, ui/ux designer, and cybersecurity researcher
  
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 
